@@ -1,0 +1,9 @@
+Starting Nmap 7.94 ( https://nmap.org )
+Nmap scan report for 10.10.10.10
+Host is up (0.045s latency).
+Not shown: 998 closed tcp ports
+
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.9p1 Ubuntu 3ubuntu0.4
+80/tcp open  http    Werkzeug httpd 2.0.3 (Python 3.9.2)
+Service detection performed.
